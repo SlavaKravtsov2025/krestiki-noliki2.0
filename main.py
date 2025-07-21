@@ -8,6 +8,9 @@ window.geometry("300x350")
 current_player = "X"
 buttons = []
 
+def on_click(row, col)
+    pass
+
 for i in range(3):
     row = []
     for j in range(3):
